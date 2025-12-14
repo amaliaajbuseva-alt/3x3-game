@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajbus\\3\u04453\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5D0F7-4CCA-1D0C-E96D-FA65D98C396F}|Assembly-CSharp.csproj|c:\\users\\ajbus\\3\u04453\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A5D0F7-4CCA-1D0C-E96D-FA65D98C396F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5D0F7-4CCA-1D0C-E96D-FA65D98C396F}|Assembly-CSharp.csproj|C:\\Users\\ajbus\\3\u04453\\assets\\scripts\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A5D0F7-4CCA-1D0C-E96D-FA65D98C396F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5D0F7-4CCA-1D0C-E96D-FA65D98C396F}|Assembly-CSharp.csproj|C:\\Users\\ajbus\\3\u04453\\assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A5D0F7-4CCA-1D0C-E96D-FA65D98C396F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5D0F7-4CCA-1D0C-E96D-FA65D98C396F}|Assembly-CSharp.csproj|c:\\users\\ajbus\\3\u04453\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A5D0F7-4CCA-1D0C-E96D-FA65D98C396F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\ajbus\\3\u04453\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\ajbus\\3\u04453\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T08:29:25.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\ajbus\\3\u04453\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\ajbus\\3\u04453\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAYwMsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:29:57.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gem.cs",
+              "DocumentMoniker": "C:\\Users\\ajbus\\3\u04453\\Assets\\Scripts\\Gem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gem.cs",
+              "ToolTip": "C:\\Users\\ajbus\\3\u04453\\Assets\\Scripts\\Gem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gem.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwG8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:47:56.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\ajbus\\3\u04453\\Assets\\Scripts\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\ajbus\\3\u04453\\Assets\\Scripts\\GameBoard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameBoard.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:13:14.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

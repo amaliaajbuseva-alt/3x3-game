@@ -1,0 +1,38 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific files
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.tmp.meta
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Addressables
+ServerData/
